@@ -20,9 +20,12 @@ UCI example data
 - vowel.txt
 - cloud.txt
 
-## 실험결과 비교를 위한 데이터별 Hyperparameter 고정
+## 논문 실험결과와 동일한 비교를 위한 데이터별 Hyperparameter 고정
 - Iris(T = 1, △T = 0.05, t = 1500)
 - Wine(T = 6, △T = 1, t = 1780)
 - Glass(T = 1, △T = 0.03, t = 2140)
 - Vowel(T = 100, △T = 10, t = 8710)
 - Cloud(T= 15, △T = 0.025, t = 250)
+
+### Reference
+Hybrid Simulated Annealing for Data Clustering(2017) : https://doi.org/10.11627/jkise.2017.40.2.092
