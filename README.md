@@ -30,5 +30,5 @@ UCI example data
 ### Reference
 Hybrid Simulated Annealing for Data Clustering(2017) : https://doi.org/10.11627/jkise.2017.40.2.092
 
-### 발표자료
-- KSA-Clustering Algorithm 구현 발표.pptx
+### 자료
+- KSA-Clustering Algorithm 구현.pdf
